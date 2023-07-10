@@ -307,8 +307,8 @@ header{
 /* QUARTA SEÇÃO: HARD/SOFT SKILLS */
 .card-skills{
     background-color: #ECECEC;
-    height: 60vh;
-    width: 25vw;
+
+    width: 45vw;
     min-width: 300px;
     border-radius: 20px;
     padding: 20px;
@@ -368,7 +368,6 @@ header{
 .card-project{
     background-color: white;
     color: #303030;
-    height: 25vh;
     width: 20vw;
     min-width: 250px;
     box-shadow: 1px 1px 8px rgb(191, 191, 191);
