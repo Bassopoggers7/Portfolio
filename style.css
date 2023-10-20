@@ -369,6 +369,7 @@ header{
     background-color: white;
     color: #303030;
     width: 20vw;
+    height: 20vh;
     min-width: 250px;
     box-shadow: 1px 1px 8px rgb(191, 191, 191);
     border-radius: 20px;
@@ -482,13 +483,13 @@ footer{
     transform: scale(1.3);
 }
 
-.card-experience-light .photo-professional{
+.card-experience-light .curriculo{
     height: 200px;
     width: auto;
     align-items: center;
 }
 
-.card-experience-light .photo-conquest{
+.card-experience-light .relogio{
     height: 200px;
     width: auto;
     align-items: center;
